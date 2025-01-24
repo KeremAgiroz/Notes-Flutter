@@ -1,0 +1,1 @@
+// uygulamada sayfaların ve navigasyon işlemlerini halledicez
